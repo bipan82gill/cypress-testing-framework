@@ -15,6 +15,7 @@
     "webdriveruni_homepage": "http://webdriveruniversity.com",
     "firstName": "sarah"
   },
+  "projectId": "n59fye",
 
   "reporter": "cypress-multi-reporters",
   "reporterOptions": {
